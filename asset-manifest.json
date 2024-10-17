@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My-CoolingFan/static/css/main.672e9f25.css",
+    "main.js": "/My-CoolingFan/static/js/main.469ce913.js",
+    "index.html": "/My-CoolingFan/index.html",
+    "main.672e9f25.css.map": "/My-CoolingFan/static/css/main.672e9f25.css.map",
+    "main.469ce913.js.map": "/My-CoolingFan/static/js/main.469ce913.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.672e9f25.css",
+    "static/js/main.469ce913.js"
+  ]
+}
